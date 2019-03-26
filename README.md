@@ -1,0 +1,1 @@
+This is Android Chat project based on peer to peer communication

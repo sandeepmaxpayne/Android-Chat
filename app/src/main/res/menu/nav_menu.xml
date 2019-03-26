@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="delete User"
+          android:id="@+id/delete_account"
+          app:showAsAction="ifRoom|withText"
+          android:icon="@drawable/deleteusers"/>
+    <item android:id="@+id/newMessage"
+          android:title="New Message"
+          android:icon="@drawable/new_message"
+          app:showAsAction="ifRoom"/>
+    <item android:id="@+id/signout"
+          app:showAsAction="ifRoom"
+          android:icon="@drawable/sign_out"
+          android:title="Sign Out"/>
+
+</menu>
